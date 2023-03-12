@@ -6,7 +6,7 @@
 
 I am a beginner web developer. My path to IT began at the university, where I study software engineering. I've learned C, Python, Golang, tried my hand at data science, but now I'm learning web development!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-shevchuksasha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fantazer_2007)] [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashashevchuk212@gmail.com)]
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-shevchuksasha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fantazer_2007) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashashevchuk212@gmail.com)
 
 ---
 
